@@ -1,5 +1,5 @@
-<h1 align="center">Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"> I'm Aditya Sawant</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hello, Coders! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"> I'm Aditya Sawant</h1>
+<h3 align="center">A passionate Front-end Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasawant21&label=Profile%20views&color=0e75b6&style=flat" alt="adityasawant21" /> </p>
 
