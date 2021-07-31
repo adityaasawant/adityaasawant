@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasawant21&label=Profile%20views&color=blueviolet&style=flat" alt="adityasawant21" /> </p>
 
 
-💬 Reach me by email or LinkedIn! **matthewdukepan@gmail.com** | **www.linkedin.com/in/matthewdukepan**
+💬 Reach me by email or LinkedIn! **adityasawant759@gmail.com** | **www.linkedin.com/in/aditya-a-sawant/**
 
 
 ### 🛠 &nbsp;Languages and Tools
