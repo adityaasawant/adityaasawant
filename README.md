@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators -->
 - 💬 Reach me by email or LinkedIn! **adityasawant759@gmail.com** | **www.linkedin.com/in/aditya-a-sawant/**
-- 📄 Know about me Through [Resume](https://)
+<!-- - 📄 Know about me Through [Resume](https://) -->
 
 ### 🛠 &nbsp;Languages and Tools
 
