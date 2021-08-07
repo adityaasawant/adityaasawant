@@ -32,9 +32,9 @@
 <br>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 <br/>
-
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasawant21&show_icons=true&theme=vue-dark&hide_border=true"/>
-
+-->
 <img src="https://github-readme-stats.vercel.app/api?username=adityasawant21&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasawant21&&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="adityasawant21" /></p>
