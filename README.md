@@ -35,9 +35,11 @@
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasawant21&show_icons=true&theme=vue-dark&hide_border=true"/>
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=adityasawant21&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasawant21&&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="adityasawant21" /></p>
+<p align="center"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasawant21&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+</p>
+<p align="center"> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasawant21&&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="adityasawant21"></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aditya-a-sawant/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
