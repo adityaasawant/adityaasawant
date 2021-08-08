@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasawant21&label=Profile%20views&color=blueviolet&style=flat" alt="adityasawant21" /> </p>
 
 <!--
-[![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://nikhilmane.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/n1khilmane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/n1khilmane)
-- 🔭 I just launched my website: [Portfolio][website]!
+[![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://)
+[![Twitter Follow](https://img.shields.io/twitter/follow/n1khilmane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AdityaASawant1)-->
+- 🔭 I just launched my website: [Portfolio]()
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators -->
 - 💬 Reach me by email or LinkedIn! **adityasawant759@gmail.com** | **www.linkedin.com/in/aditya-a-sawant/**
-<!-- - 📄 Know about me Through [Resume](https://) -->
+<!-- - 📄 Know about me Through [Resume]() -->
 
 ### 🛠 &nbsp;Languages and Tools
 
