@@ -5,7 +5,7 @@
 
 <!--
 [![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://)
-[![Twitter Follow](https://img.shields.io/twitter/follow/n1khilmane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AdityaASawant1)-->
+[![Twitter Follow](https://img.shields.io/twitter/follow/n1khilmane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AdityaASawant1)
 - 🔭 I just launched my website: [Portfolio]()
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators -->
