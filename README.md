@@ -44,13 +44,33 @@
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasawant21&show_icons=true&theme=vue-dark&hide_border=true"/>
 -->
+_________________________________________________________________________________________________________________________________________________
+
+## 📈 Stats
+ <table>
+  <tr>
+    <td>
+    
+      
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasawant21&show_icons=true&theme=vue-dark)
+   </td>
+    
+    
+   <td>  
+    
+  
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adityasawant21&theme=vue-dark)
+     </td>
+      </tr>
+  </table>
+<!--    
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasawant21&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
   
 </p>
 <p align="center"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasawant21&&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="AdityaSawant21"></p>
-
+-->
 <p align="center">
 <a href="https://www.linkedin.com/in/aditya-a-sawant/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:adtyasawant759@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
