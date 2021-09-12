@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px">, I'm Aditya Sawant</h1>
+<h1 align="center">Hello <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px">, I'm Aditya Sawant</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasawant21&label=Profile%20views&color=blueviolet&style=flat" alt="adityasawant21" /> </p>
