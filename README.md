@@ -69,12 +69,12 @@ ________________________________________________________________________________
    <td>  
     
   
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adityasawant21&theme=algolia&include_all_commits=true&count_private=true)
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSawant21&theme=algolia&include_all_commits=true&count_private=true)
      </td>
       </tr>
   </table>
   
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaSawant21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaSawant21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
 <!-- <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaSawant21&layout=compact&langs_count=8&theme=algolia"/> -->
 <!--    
 <p align="center"> 
