@@ -56,23 +56,26 @@
 -->
 _________________________________________________________________________________________________________________________________________________
 
-## 📈 Stats
+## 📈Profile Stats :
  <table>
   <tr>
     <td>
     
       
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasawant21&show_icons=true&theme=vue-dark)
+ ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaSawant21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
    </td>
     
     
    <td>  
     
   
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adityasawant21&theme=vue-dark)
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adityasawant21&theme=algolia&include_all_commits=true&count_private=true)
      </td>
       </tr>
   </table>
+  
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaSawant21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!-- <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaSawant21&layout=compact&langs_count=8&theme=algolia"/> -->
 <!--    
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasawant21&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
