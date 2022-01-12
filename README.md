@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasawant21" alt="adityasawant21" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/AdityaASawant1" target="blank"><img src="https://img.shields.io/twitter/follow/AdityaASawant1?logo=twitter&style=for-the-badge" alt="AdityaASawant1" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/AdityaASawant1" target="blank"><img src="https://img.shields.io/twitter/follow/AdityaASawant1?logo=twitter&style=for-the-badge" alt="AdityaASawant1" /></a> </p> -->
 <!--
 [![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://)-->
 <!--
