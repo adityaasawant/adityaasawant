@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
-- 💬 Ask me about **Java, C++, Machine Learning**
+<!-- - 💬 Ask me about **Java, Python, C++, OOPS, HTML** -->
 
 - 📫 How to reach me - **adityasawant759@gmail.com** | **www.linkedin.com/in/aditya-a-sawant/**
 
