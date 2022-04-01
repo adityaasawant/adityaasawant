@@ -1,10 +1,10 @@
 <h1 align="center">Hello <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px">, I'm Aditya Sawant</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasawant21&label=Profile%20views&color=blueviolet&style=flat" alt="adityasawant21" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasawant21&label=Profile%20views&color=blueviolet&style=flat" alt="adityasawant21" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasawant21" alt="adityasawant21" /></a> </p>
-
+ -->
 <!-- <p align="left"> <a href="https://twitter.com/AdityaASawant1" target="blank"><img src="https://img.shields.io/twitter/follow/AdityaASawant1?logo=twitter&style=for-the-badge" alt="AdityaASawant1" /></a> </p> -->
 <!--
 [![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://)-->
@@ -15,11 +15,11 @@
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators-->
 
-- 🔭 I’m currently working on **Project on Ocean Waste Detection Model(CNN)**
+- 🔭 I’m currently working on **BE Project on Ocean Waste Detection System**
+<!-- 
+- 🌱 I’m currently learning **React.js, Node.js** -->
 
-- 🌱 I’m currently learning **React.js, Node.js**
-
-<!-- - 💬 Ask me about **Java, Python, C++, OOPS, HTML** -->
+- 💬 Ask me about **Java, Python, SQL and DBMS**
 
 - 📫 How to reach me - **adityasawant759@gmail.com** | **www.linkedin.com/in/aditya-a-sawant/**
 
@@ -38,9 +38,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+<!-- ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff) -->
 <br>
 ### Other Tools and Technologies :
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
