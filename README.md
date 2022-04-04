@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Java, Python, SQL and DBMS**
 
-- 📫 How to reach me -**adityasawant759@gmail.com** | **www.linkedin.com/in/aditya-a-sawant/**
+- 📫 How to reach me - **adityasawant759@gmail.com** | **www.linkedin.com/in/aditya-a-sawant/**
 
 - 👯 I’m looking to collaborate on Web Development projects, any language is welcome!
 
@@ -63,10 +63,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSawant21&theme=radical" />
 </a>
 
+<!-- 
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaSawant21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSawant21&theme=radical" />
 </a>
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSawant21&theme=algolia&include_all_commits=true&count_private=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSawant21&theme=algolia&include_all_commits=true&count_private=true)
   
  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaSawant21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaSawant21&layout=compact&langs_count=8&theme=algolia"/>  
