@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">Hello <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px">, I'm Aditya Sawant</h1>
-<h3 align="center">A passionate Developer from India</h3>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AdityaSawant21)
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasawant21&label=Profile%20views&color=blueviolet&style=flat" alt="adityasawant21" /> </p>
 
@@ -27,12 +28,13 @@
 
 - 📫 How to reach me - **adityasawant759@gmail.com** | **www.linkedin.com/in/aditya-a-sawant/**
 
+- 👯 I’m looking to collaborate on Web Development projects,any language is welcome!
+
 - ⚡ Fun fact **If I was not a Developer I would be a Artist.**
 
-<!-- - 📄 Know about me Through [Resume]() -->
-## ⚡ Technologies
+- 📄 Know more about me through [Resume](https://drive.google.com/file/d/19b49urtXoNskznW9fgonj2Q9C-1qageX/view?usp=sharing)
 
- ### Languages, Libraries & Frameworks :
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
