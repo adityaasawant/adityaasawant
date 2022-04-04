@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" height = "380px" src="https://images.idgesg.net/images/article/2020/05/sale_25313_primary_image_wide-100842650-large.jpg" alt="cover" />
+</div>
+
 <h1 align="center">Hello <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px">, I'm Aditya Sawant</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
