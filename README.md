@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators-->
 
-- 🔭 I’m currently working on **BE Project on Ocean Waste Detection System**
+- 🔭 I’m currently working on **BE Project on  "CleanSea: The Deep Learning Model for Ocean Waste Detection"**
 <!-- 
 - 🌱 I’m currently learning **React.js, Node.js** -->
 
