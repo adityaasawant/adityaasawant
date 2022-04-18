@@ -27,8 +27,8 @@
 - 💬 Ask me about **Java, Python, SQL and DBMS**
 
 - 📫 How to reach me - **adityasawant759@gmail.com**
-
-- 👯 I’m looking to collaborate on Web Development projects, any language is welcome!
+<!-- 
+- 👯 I’m looking to collaborate on Web Development projects, any language is welcome! -->
 
 - 📄 Know more about me through [Resume](https://drive.google.com/file/d/19b49urtXoNskznW9fgonj2Q9C-1qageX/view?usp=sharing)
 
