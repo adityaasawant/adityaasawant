@@ -30,7 +30,7 @@
 <!-- 
 - 👯 I’m looking to collaborate on Web Development projects, any language is welcome! -->
 
-- 📄 Know more about me through [Resume](https://drive.google.com/file/d/19b49urtXoNskznW9fgonj2Q9C-1qageX/view?usp=sharing)
+- 📄 Know more about me through [Resume](https://drive.google.com/file/d/1APdiqlLNQ_oheg42HnSVaeoYqoH0jdGb/view?usp=sharing)
 
 - ⚡ Fun fact **If I was not a Developer I would be a Artist.**
 
@@ -64,11 +64,13 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AdityaSawant21&count_private=true&show_icons=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AdityaSawant21&count_private=true&show_icons=true&theme=algolia" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSawant21&theme=algolia&include_all_commits=true&count_private=true)
+<!-- <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSawant21&theme=radical" />
-</a>
+</a> -->
 
 <!-- 
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaSawant21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
