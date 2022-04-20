@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img width="100%" height = "380px" src="https://images.idgesg.net/images/article/2020/05/sale_25313_primary_image_wide-100842650-large.jpg" alt="cover" />
-</div>
+</div> -->
 
 <h1 align="center">Hello <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px">, I'm Aditya Sawant</h1>
 
