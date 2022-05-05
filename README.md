@@ -66,9 +66,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AdityaSawant21&count_private=true&show_icons=true&theme=algolia" />
 </a>
-<br />
-&nbsp;
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSawant21&theme=algolia&include_all_commits=true&count_private=true)
 <!-- <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSawant21&theme=radical" />
