@@ -21,11 +21,11 @@
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators-->
 
-- 🔭 I’m currently working on **BE Project on  "CleanSea: The Deep Learning Model for Ocean Waste Detection"**
+- 🔭 I’m currently working as a ML Engineer at Quantiphi
 <!-- 
 - 🌱 I’m currently learning **React.js, Node.js** -->
 
-- 💬 Ask me about **Java, Python, SQL and DBMS**
+- 💬 Ask me about **Java, Python, DL, SQL and DBMS**
 
 - 📫 How to reach me - **adityasawant759@gmail.com**
 <!-- 
