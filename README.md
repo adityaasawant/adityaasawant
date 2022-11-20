@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators-->
 
-- 🔭 I’m currently working as a Machine Learning Engineer at Quantiphi
+- 🔭 I’m currently working as a **Machine Learning Engineer Intern** at **Quantiphi**
 <!-- 
 - 🌱 I’m currently learning **React.js, Node.js** -->
 
