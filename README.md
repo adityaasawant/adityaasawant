@@ -5,7 +5,8 @@
 <h1 align="center">Hello <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px" height="45"
          width="45">, I'm Aditya Sawant</h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AdityaSawant21)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AdityaSawant21) -->
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=AdityaSawant21 alt=AdityaSawant/> </p>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasawant21&label=Profile%20views&color=blueviolet&style=flat" alt="adityasawant21" /> </p>
 
