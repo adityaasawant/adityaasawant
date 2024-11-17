@@ -26,7 +26,7 @@
 <!-- 
 - 🌱 I’m currently learning **React.js, Node.js** -->
 
-- 💬 Ask me about **Java, Python, DL, SQL and DBMS**
+- 💬 Ask me about **Python, Nvdia SDKs, Deepstream, Deep Learning, AI, Java, SQL and DBMS**
 
 - 📫 How to reach me - **adityasawant759@gmail.com**
 <!-- 
@@ -34,7 +34,7 @@
 
 - 📄 Know more about me through [Resume](https://drive.google.com/file/d/1APdiqlLNQ_oheg42HnSVaeoYqoH0jdGb/view?usp=sharing)
 
-- ⚡ Fun fact **If I was not a Developer I would be a Artist.**
+- ⚡ Fun fact **If I was not a Developer I would be an Artist.**
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px  height="45"
          width="45"> </h2>
