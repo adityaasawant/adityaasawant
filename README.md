@@ -26,7 +26,7 @@
 <!-- 
 - 🌱 I’m currently learning **React.js, Node.js** -->
 
-- 💬 Ask me about **Python, Nvdia SDKs, Deepstream, Deep Learning, ML, AI, Java, SQL and DBMS**
+- 💬 Ask me about **Python, Nvidia SDKs, Deepstream, Deep Learning, ML, AI, Java, SQL and DBMS**
 
 - 📫 How to reach me - **adityasawant759@gmail.com**
 <!-- 
