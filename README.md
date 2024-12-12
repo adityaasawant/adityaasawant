@@ -5,12 +5,12 @@
 <h1 align="center">Hello <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px" height="45"
          width="45">, I'm Aditya Sawant</h1>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AdityaSawant21) -->
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=AdityaSawant21 alt=AdityaSawant/> </p>
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=adityaasawant) -->
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=adityaasawant alt=AdityaSawant/> </p>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasawant21&label=Profile%20views&color=blueviolet&style=flat" alt="adityasawant21" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityaasawant&label=Profile%20views&color=blueviolet&style=flat" alt="adityaasawant" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasawant21" alt="adityasawant21" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaasawant" alt="adityaasawant" /></a> </p>
  -->
 <!-- <p align="left"> <a href="https://twitter.com/AdityaASawant1" target="blank"><img src="https://img.shields.io/twitter/follow/AdityaASawant1?logo=twitter&style=for-the-badge" alt="AdityaASawant1" /></a> </p> -->
 <!--
@@ -51,7 +51,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)     
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasawant21&show_icons=true&theme=vue-dark&hide_border=true"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaasawant&show_icons=true&theme=vue-dark&hide_border=true"/> 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
@@ -63,33 +63,33 @@
 <a href = 'https://twitter.com/AdityaASawant1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <!-- <a href = 'https://sristi2705.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://sristi-chowdhury.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  -->
-<a href = 'https://github.com/AdityaSawant21'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://github.com/adityaasawant'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'  height="45"
          width="45"> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AdityaSawant21&count_private=true&show_icons=true&theme=algolia" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityaasawant&count_private=true&show_icons=true&theme=algolia" />
 </a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSawant21&theme=algolia&include_all_commits=true&count_private=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adityaasawant&theme=algolia&include_all_commits=true&count_private=true)
 <!-- <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSawant21&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaasawant&theme=radical" />
 </a> -->
 
 <!-- 
-![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaSawant21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-<a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSawant21&theme=radical" />
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adityaasawant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+<a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaasawant&theme=radical" />
 </a>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSawant21&theme=algolia&include_all_commits=true&count_private=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adityaasawant&theme=algolia&include_all_commits=true&count_private=true)
   
- <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaSawant21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaSawant21&layout=compact&langs_count=8&theme=algolia"/>  
+ <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaasawant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaasawant&layout=compact&langs_count=8&theme=algolia"/>  
 <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasawant21&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaasawant&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
 </p>
 <p align="center"> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasawant21&&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="AdityaSawant21"></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaasawant&&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="adityaasawant"></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/aditya-a-sawant/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:adtyasawant759@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
