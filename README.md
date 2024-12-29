@@ -26,13 +26,13 @@
 <!-- 
 - 🌱 I’m currently learning **React.js, Node.js** -->
 
-- 💬 Ask me about **Python, Nvidia SDKs, Deepstream, Deep Learning, ML, AI, Java, SQL and DBMS**
+- 💬 Ask me about **Python, Nvidia SDKs, Deepstream, RAG, Deep Learning, ML, AI, Java, SQL and DBMS**
 
 - 📫 How to reach me - **adityasawant759@gmail.com**
 <!-- 
 - 👯 I’m looking to collaborate on Web Development projects, any language is welcome! -->
 
-- 📄 Know more about me through [Resume](https://drive.google.com/file/d/1APdiqlLNQ_oheg42HnSVaeoYqoH0jdGb/view?usp=sharing)
+- 📄 Know more about me through [Resume](https://drive.google.com/file/d/1PYIkup3VNq7qi-m3zat_4rF134huCb_f/view?usp=sharing)
 
 - ⚡ Fun fact **If I was not a Developer I would be an Artist.**
 
