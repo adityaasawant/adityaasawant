@@ -20,7 +20,6 @@
 <!--
 - 🔭 I just launched my website: [Portfolio]()
 - 🌱 I’m currently learning everything 🤣 
-- 👯 I’m looking to collaborate with other content creators-->
 
 - 🔭 I’m currently working as a **Machine Learning Engineer** at **Quantiphi**
 <!-- 
