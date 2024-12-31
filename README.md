@@ -27,8 +27,6 @@
 - 💬 Ask me about **Python, Nvidia SDKs, Deepstream, RAG, Deep Learning, ML, AI, Java, SQL and DBMS**
 
 - 📫 How to reach me - **adityasawant759@gmail.com**
-<!-- 
-- 👯 I’m looking to collaborate on Web Development projects, any language is welcome! -->
 
 - 📄 Know more about me through [Resume](https://drive.google.com/file/d/1PYIkup3VNq7qi-m3zat_4rF134huCb_f/view?usp=sharing)
 
@@ -71,9 +69,6 @@
 </a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adityaasawant&theme=algolia&include_all_commits=true&count_private=true)
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaasawant&theme=radical" />
-</a> -->
 
 <!-- 
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adityaasawant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
