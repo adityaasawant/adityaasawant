@@ -17,12 +17,13 @@
 [![Website](https://img.shields.io/website?label=nikhilmane.com&style=for-the-badge&url=https%3A%2F%2Fnikhilmane.com)](https://)-->
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/AdityaASawant1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AdityaASawant1)
-<!--
+
 - 🔭 I just launched my website: [Portfolio]()
 
-- 🔭 I’m currently working as a **Machine Learning Engineer** at **Quantiphi**
-<!-- 
-- 🌱 I’m currently learning **React.js, Node.js** -->
+- 🌱 I’m currently learning **React.js, Node.js**
+-->
+
+-  🔭 I’m currently working as a **Machine Learning Engineer** at **Quantiphi**
 
 - 💬 Ask me about **Python, Nvidia SDKs, Deepstream, RAG, Deep Learning, ML, AI, Java, SQL and DBMS**
 
