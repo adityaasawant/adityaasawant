@@ -19,7 +19,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AdityaASawant1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AdityaASawant1)
 <!--
 - 🔭 I just launched my website: [Portfolio]()
-- 🌱 I’m currently learning everything 🤣 
 
 - 🔭 I’m currently working as a **Machine Learning Engineer** at **Quantiphi**
 <!-- 
