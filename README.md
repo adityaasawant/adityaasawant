@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **React.js, Node.js**
 -->
 
--  🔭 I’m currently working as a **Machine Learning Engineer** at **Quantiphi**
+-  🔭 I’m currently working as a **Senior Machine Learning Engineer** at **Quantiphi**
 
 - 💬 Ask me about **Python, Nvidia SDKs, Deepstream, RAG, Deep Learning, ML, AI, Java, SQL and DBMS**
 
