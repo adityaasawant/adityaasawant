@@ -29,7 +29,7 @@
 
 - 📫 How to reach me - **adityasawant759@gmail.com**
 
-- 📄 Know more about me through [Resume](https://drive.google.com/file/d/1PYIkup3VNq7qi-m3zat_4rF134huCb_f/view?usp=sharing)
+- 📄 Know more about me through [Resume](https://drive.google.com/file/d/16MzVfwzBMvBmDDWLElYyJcJZLCFJ_S_k/view?usp=sharing)
 
 - ⚡ Fun fact **If I was not a Developer I would be an Artist.**
 
