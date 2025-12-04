@@ -25,7 +25,7 @@
 
 -  🔭 I’m currently working as a **Senior Machine Learning Engineer** at **Quantiphi**
 
-- 💬 Ask me about **Python, Nvidia SDKs, Deepstream, RAG, Deep Learning, ML, AI, Java, SQL and DBMS**
+- 💬 Ask me about **Python, Langchain, LLM, VLM, RAG Pipeline, Nvidia SDKs, Deepstream, Deep Learning, Machine Learning and Artificial Intelligence**
 
 - 📫 How to reach me - **adityasawant759@gmail.com**
 
